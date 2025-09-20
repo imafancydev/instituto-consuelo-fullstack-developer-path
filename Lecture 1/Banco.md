@@ -10,3 +10,9 @@ Banco de Dados X SGBD (Find more about it)
     2.3 Campo/Coluna: Uma categoria de informações
     2.4 Primary Key: Identificador único
     2.5 Chave estrangeira: Ligação entre tabelas 
+3. Data type
+    3.1 VARCHAR
+    3.2 INTEGER
+    3.3 DATE
+    3.4 BOOLEAN
+    3.5 SERIAL
